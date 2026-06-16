@@ -1,9 +1,10 @@
 # Material Stream Identification System
 
-Real-time image-based waste material classifier and sorting pipeline achieving 90% classification accuracy.
-  Core Architecture: Features ResNet50 as a CNN feature extractor coupled with a scikit-learn Support Vector Classifier (SVC) pipeline.
-  Data Balancing: Utilized targeted data augmentation techniques to synthetically expand underrepresented classes, effectively mitigating dataset imbalance.
-  Deployment Utilities: Supports both live, real-time camera inference and bulk batch prediction capabilities.
+**Real-time image-based waste material classifier and sorting pipeline achieving 90% classification accuracy.**
+
+* **Core Architecture:** Features ResNet50 as a CNN feature extractor coupled with a scikit-learn Support Vector Classifier (SVC) pipeline.
+* **Data Balancing:** Utilized targeted data augmentation techniques to expand underrepresented classes, effectively mitigating dataset imbalance synthetically.
+* **Deployment Utilities:** Supports both live, real-time camera inference and bulk batch prediction capabilities.
 
 ## Quick start
 
