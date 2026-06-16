@@ -1,7 +1,5 @@
 # Material Stream Identification System
 
-## Short description
-
 image-based waste material classifier using a CNN feature extractor (ResNet50) + scikit-learn pipeline. Includes real-time camera prediction and batch prediction utilities.
 
 ## Quick start
